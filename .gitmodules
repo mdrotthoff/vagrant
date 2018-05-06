@@ -7,3 +7,6 @@
 [submodule "sciurus.vagrant-mutate"]
 	path = sciurus.vagrant-mutate
 	url = https://github.com/sciurus/vagrant-mutate.git
+[submodule "sciurus.vagrant-environment"]
+	path = sciurus.vagrant-environment
+	url = https://github.com/sciurus/vagrant-environment.git
