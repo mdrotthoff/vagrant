@@ -10,3 +10,6 @@
 [submodule "sciurus.vagrant-environment"]
 	path = sciurus.vagrant-environment
 	url = https://github.com/sciurus/vagrant-environment.git
+[submodule "geerlingguy.packer-centos-6"]
+	path = geerlingguy.packer-centos-6
+	url = https://github.com/geerlingguy/packer-centos-6.git
