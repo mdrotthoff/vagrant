@@ -13,3 +13,6 @@
 [submodule "geerlingguy.packer-centos-6"]
 	path = geerlingguy.packer-centos-6
 	url = https://github.com/geerlingguy/packer-centos-6.git
+[submodule "boxcutter.fedora"]
+	path = boxcutter.fedora
+	url = https://github.com/boxcutter/fedora.git
