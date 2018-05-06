@@ -1,0 +1,3 @@
+[submodule "uvsmtid.vagrant-boxes"]
+	path = uvsmtid.vagrant-boxes
+	url = https://github.com/uvsmtid/vagrant-boxes.git
