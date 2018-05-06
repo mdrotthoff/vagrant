@@ -22,3 +22,6 @@
 [submodule "boxcutter.debian"]
 	path = boxcutter.debian
 	url = https://github.com/boxcutter/debian.git
+[submodule "boxcutter.centos"]
+	path = boxcutter.centos
+	url = https://github.com/boxcutter/centos.git
