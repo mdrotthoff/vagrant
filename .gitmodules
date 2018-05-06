@@ -1,3 +1,6 @@
 [submodule "uvsmtid.vagrant-boxes"]
 	path = uvsmtid.vagrant-boxes
 	url = https://github.com/uvsmtid/vagrant-boxes.git
+[submodule "vagrant-libvirt.vagrant-libvirt"]
+	path = vagrant-libvirt.vagrant-libvirt
+	url = https://github.com/vagrant-libvirt/vagrant-libvirt.git
