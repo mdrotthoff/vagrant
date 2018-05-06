@@ -19,3 +19,6 @@
 [submodule "boxcutter.ubuntu"]
 	path = boxcutter.ubuntu
 	url = https://github.com/boxcutter/ubuntu.git
+[submodule "boxcutter.debian"]
+	path = boxcutter.debian
+	url = https://github.com/boxcutter/debian.git
