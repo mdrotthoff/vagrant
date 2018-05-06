@@ -4,3 +4,6 @@
 [submodule "vagrant-libvirt.vagrant-libvirt"]
 	path = vagrant-libvirt.vagrant-libvirt
 	url = https://github.com/vagrant-libvirt/vagrant-libvirt.git
+[submodule "sciurus.vagrant-mutate"]
+	path = sciurus.vagrant-mutate
+	url = https://github.com/sciurus/vagrant-mutate.git
