@@ -28,3 +28,6 @@
 [submodule "mrlesmithjr.packer-templates"]
 	path = mrlesmithjr.packer-templates
 	url = https://github.com/mrlesmithjr/packer-templates.git
+[submodule "mrlesmithjr.vagrant-templates"]
+	path = mrlesmithjr.vagrant-templates
+	url = https://github.com/mrlesmithjr/vagrant-box-templates.git
