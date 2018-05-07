@@ -25,3 +25,6 @@
 [submodule "boxcutter.centos"]
 	path = boxcutter.centos
 	url = https://github.com/boxcutter/centos.git
+[submodule "mrlesmithjr.packer-templates"]
+	path = mrlesmithjr.packer-templates
+	url = https://github.com/mrlesmithjr/packer-templates.git
