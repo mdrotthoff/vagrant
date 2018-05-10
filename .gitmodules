@@ -37,3 +37,15 @@
 [submodule "tcnksm-sample.packer-docker"]
 	path = tcnksm-sample.packer-docker
 	url = https://github.com/tcnksm-sample/packer-docker.git
+[submodule "jakobadam.packer-qemu-templates"]
+	path = jakobadam.packer-qemu-templates
+	url = git@github.com:mdrotthoff/jakobadam.packer-qemu-templates.git
+[submodule "kaorimatz.packer-templates"]
+	path = kaorimatz.packer-templates
+	url = git@github.com:mdrotthoff/kaorimatz.packer-templates.git
+[submodule "boxcutter.oraclelinux"]
+	path = boxcutter.oraclelinux
+	url = https://github.com/boxcutter/oraclelinux.git
+[submodule "geerlingguy.packer-centos-7"]
+	path = geerlingguy.packer-centos-7
+	url = https://github.com/geerlingguy/packer-centos-7
