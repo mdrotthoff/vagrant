@@ -49,3 +49,6 @@
 [submodule "geerlingguy.packer-centos-7"]
 	path = geerlingguy.packer-centos-7
 	url = https://github.com/geerlingguy/packer-centos-7
+[submodule "nir0s.python-packer"]
+	path = nir0s.python-packer
+	url = https://github.com/nir0s/python-packer.git
