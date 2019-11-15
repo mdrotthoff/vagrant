@@ -31,9 +31,6 @@
 [submodule "mrlesmithjr.vagrant-templates"]
 	path = mrlesmithjr.vagrant-templates
 	url = https://github.com/mrlesmithjr/vagrant-box-templates.git
-[submodule "mrlesmithjr.packer-arch"]
-	path = mrlesmithjr.packer-arch
-	url = https://github.com/mrlesmithjr/packer-arch.git
 [submodule "tcnksm-sample.packer-docker"]
 	path = tcnksm-sample.packer-docker
 	url = https://github.com/tcnksm-sample/packer-docker.git
